@@ -10,7 +10,7 @@ body{
     text-align: justify;
 }
 
-@media screen and (width > 419px) and (width < 768px) {
+@media screen and (width >= 419px) and (width < 768px) {
     .container {
         width: 70%;
         border: 3px solid #2132cf;
